@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.container {
+  padding-top: 150px;
+  height: 150vh;
+  padding-bottom: 111px;
+  padding-left: 100px;
+  padding-right: 100px;
+  background-color: #ffc2a0;
+}
+
+.sub-container {
+  background-color: #ffffff;
+  padding: 50px 150px 50px 150px;
+  border-radius: 10px;
+}
+
+.todo-head {
+  text-align: center;
+  color: #ff8542;
+  font-weight: 800;
+  font-family: Roboto;
+  font-size: 50px;
+  margin-bottom: 40px;
+}
+
+.itemsList {
+  list-style: none;
+}

@@ -1,0 +1,27 @@
+/* Write your CSS here */
+* {
+  font-family: Roboto;
+}
+
+.title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.title-head {
+  font-size: 25px;
+  font-weight: 500;
+}
+
+.btn {
+  color: #ff0b37;
+  background-color: transparent;
+  border-width: 2px;
+  border-color: #ff0b37;
+  border-radius: 5px;
+  font-weight: 500;
+  padding: 5px 10px 5px 10px;
+  cursor: pointer;
+  outline: none;
+}
